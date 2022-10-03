@@ -1,8 +1,7 @@
 # Kacperuss
 ### Tech savvy with poor time management skills
 
-Once I get through all of my old abandoned projects and push them to some repos I might link them here I guess
-For now you'll have to take my word
+Once I get through all of my old abandoned projects and push them to some repos I might link them here I guess. For now you'll have to take my word
 
 ## [Software]
 - Front-end web dev (Nuxt.js)
